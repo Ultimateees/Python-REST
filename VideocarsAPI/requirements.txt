@@ -1,0 +1,5 @@
+Flask==2.2.3
+Flask_HTTPAuth==4.8.0
+flask_sqlalchemy==3.0.5
+marshmallow_sqlalchemy==0.29.0
+Werkzeug==2.2.3
